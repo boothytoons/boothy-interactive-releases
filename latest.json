@@ -1,23 +1,23 @@
 {
-  "version": "0.3.1",
-  "url": "https://raw.githubusercontent.com/boothytoons/boothy-interactive-releases/main/Boothy-Interactive-0.3.1-win.zip.part01",
-  "sha256": "8bffa6b6b90b71db623f953154743c2536c9b29e5ae53b7bdd7d015e910d7ea9",
-  "size": 121104915,
+  "version": "0.3.2",
+  "url": "https://raw.githubusercontent.com/boothytoons/boothy-interactive-releases/main/Boothy-Interactive-0.3.2-win.zip.part01",
+  "sha256": "4ad98204d0cf200f8ddf26f4f83d8a9e47ccd7032a8dbbae34dd694063146135",
+  "size": 121105091,
   "parts": [
     {
-      "url": "https://raw.githubusercontent.com/boothytoons/boothy-interactive-releases/main/Boothy-Interactive-0.3.1-win.zip.part01",
-      "sha256": "7e2ab64c8e6b680850d85c55301ab26ad456495758486ec3d5131267d5eb2196",
+      "url": "https://raw.githubusercontent.com/boothytoons/boothy-interactive-releases/main/Boothy-Interactive-0.3.2-win.zip.part01",
+      "sha256": "4cc22bbc5797833cbba97b2c7807b9a6ba9573d87c9450d5b763c69635a59c7f",
       "size": 47185920
     },
     {
-      "url": "https://raw.githubusercontent.com/boothytoons/boothy-interactive-releases/main/Boothy-Interactive-0.3.1-win.zip.part02",
-      "sha256": "0c2c24109e4cc3bd3f7b6022d497ea063e71f20a03365aa612a2a60a0895a611",
+      "url": "https://raw.githubusercontent.com/boothytoons/boothy-interactive-releases/main/Boothy-Interactive-0.3.2-win.zip.part02",
+      "sha256": "64e18dd1af44590369b7539c8ab3c90fae28a3ec27b2487cf1a589baff446a93",
       "size": 47185920
     },
     {
-      "url": "https://raw.githubusercontent.com/boothytoons/boothy-interactive-releases/main/Boothy-Interactive-0.3.1-win.zip.part03",
-      "sha256": "fe01395bf9eaf4db2e54880e6a8d72a68a299035d2b9b15501868bc4353926a5",
-      "size": 26733075
+      "url": "https://raw.githubusercontent.com/boothytoons/boothy-interactive-releases/main/Boothy-Interactive-0.3.2-win.zip.part03",
+      "sha256": "9ebde4318061a1461e35130134893ee151fca3233d3c42d8f82729f32c300452",
+      "size": 26733251
     }
   ]
 }
