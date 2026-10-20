@@ -1,24 +1,24 @@
 {
-  "version": "0.1.0",
-  "url": "https://raw.githubusercontent.com/boothytoons/boothy-interactive-releases/main/chatinvasion/Chat-Invasion-0.1.0-win.zip.part01",
-  "sha256": "73f4616ddd0f489693e983fb618e2f82f9c5e805d0180e6f724d798c5d3ad339",
-  "size": 115340672,
-  "notes": "",
+  "version": "0.2.0",
+  "url": "https://raw.githubusercontent.com/boothytoons/boothy-interactive-releases/main/chatinvasion/Chat-Invasion-0.2.0-win.zip.part01",
+  "sha256": "8c42bfb77c5b9546f568758a8a5827435e15cb4cf379006e38ab66f377f6d329",
+  "size": 111747971,
+  "notes": "Survival update. Seven nights on Chat Lane: wake in your house, scavenge the abandoned street by day, knock on Gus, Mabel and Dot's shops to trade, board up before dark, hold the house at night, sleep through to the next day. Night 7 brings The Undertaker. Death ends the run.",
   "parts": [
     {
-      "url": "https://raw.githubusercontent.com/boothytoons/boothy-interactive-releases/main/chatinvasion/Chat-Invasion-0.1.0-win.zip.part01",
-      "sha256": "7d3643d16fe2a8b221ef22435f1cb42d51065cf5d3233cb05f123fb436de9c52",
+      "url": "https://raw.githubusercontent.com/boothytoons/boothy-interactive-releases/main/chatinvasion/Chat-Invasion-0.2.0-win.zip.part01",
+      "sha256": "9613f30469a48bb731634a3f91e6851ed5017cf8d533a1207031dd0ee7f3729e",
       "size": 47185920
     },
     {
-      "url": "https://raw.githubusercontent.com/boothytoons/boothy-interactive-releases/main/chatinvasion/Chat-Invasion-0.1.0-win.zip.part02",
-      "sha256": "60fb762ac7b4ab8efaeb4eaf8e25720aa6765fbbcaaf59ecf1e21e8452885860",
+      "url": "https://raw.githubusercontent.com/boothytoons/boothy-interactive-releases/main/chatinvasion/Chat-Invasion-0.2.0-win.zip.part02",
+      "sha256": "807346ee95d8422abb10ddbee52c86334688b6afd1c5a6c779ba284415b57b00",
       "size": 47185920
     },
     {
-      "url": "https://raw.githubusercontent.com/boothytoons/boothy-interactive-releases/main/chatinvasion/Chat-Invasion-0.1.0-win.zip.part03",
-      "sha256": "76a982acaab6cf3f073e7bb9de61a9457cbb62551a040d77ab7df2ae8a8d4e8a",
-      "size": 20968832
+      "url": "https://raw.githubusercontent.com/boothytoons/boothy-interactive-releases/main/chatinvasion/Chat-Invasion-0.2.0-win.zip.part03",
+      "sha256": "56af1bb820628dea3bf67e45a13add49bb900bccaaa9ce16ac7f00ae56f0d8e4",
+      "size": 17376131
     }
   ]
 }
