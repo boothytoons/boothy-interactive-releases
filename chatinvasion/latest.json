@@ -1,0 +1,24 @@
+{
+  "version": "0.1.0",
+  "url": "https://raw.githubusercontent.com/boothytoons/boothy-interactive-releases/main/chatinvasion/Chat-Invasion-0.1.0-win.zip.part01",
+  "sha256": "73f4616ddd0f489693e983fb618e2f82f9c5e805d0180e6f724d798c5d3ad339",
+  "size": 115340672,
+  "notes": "",
+  "parts": [
+    {
+      "url": "https://raw.githubusercontent.com/boothytoons/boothy-interactive-releases/main/chatinvasion/Chat-Invasion-0.1.0-win.zip.part01",
+      "sha256": "7d3643d16fe2a8b221ef22435f1cb42d51065cf5d3233cb05f123fb436de9c52",
+      "size": 47185920
+    },
+    {
+      "url": "https://raw.githubusercontent.com/boothytoons/boothy-interactive-releases/main/chatinvasion/Chat-Invasion-0.1.0-win.zip.part02",
+      "sha256": "60fb762ac7b4ab8efaeb4eaf8e25720aa6765fbbcaaf59ecf1e21e8452885860",
+      "size": 47185920
+    },
+    {
+      "url": "https://raw.githubusercontent.com/boothytoons/boothy-interactive-releases/main/chatinvasion/Chat-Invasion-0.1.0-win.zip.part03",
+      "sha256": "76a982acaab6cf3f073e7bb9de61a9457cbb62551a040d77ab7df2ae8a8d4e8a",
+      "size": 20968832
+    }
+  ]
+}
