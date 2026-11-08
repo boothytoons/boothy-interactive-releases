@@ -1,54 +1,54 @@
 {
-  "version": "0.6.0",
-  "url": "https://raw.githubusercontent.com/boothytoons/boothy-interactive-releases/main/Boothy-Interactive-0.6.0-win.zip.part01",
-  "sha256": "02158dcfbce89d81e59237e04e14c519a9d4f21e10b67a473cb3beaa13b4e00d",
-  "size": 217557344,
+  "version": "0.6.1",
+  "url": "https://raw.githubusercontent.com/boothytoons/boothy-interactive-releases/main/Boothy-Interactive-0.6.1-win.zip.part01",
+  "sha256": "0eb258ef686c2014bd77c583e1fe7c04da0c9021d44c636ce74041c97aeb5656",
+  "size": 217558248,
   "parts": [
     {
-      "url": "https://raw.githubusercontent.com/boothytoons/boothy-interactive-releases/main/Boothy-Interactive-0.6.0-win.zip.part01",
-      "sha256": "3bca52b26e3c7e87f5fafcb82e74a2c36efa9d5c17a17d32de1a3a1bc9d0a6ad",
+      "url": "https://raw.githubusercontent.com/boothytoons/boothy-interactive-releases/main/Boothy-Interactive-0.6.1-win.zip.part01",
+      "sha256": "63ddce4d5e22fb561088890b49fc258492995514876f42155bbc6bdf9a590de6",
       "size": 26214400
     },
     {
-      "url": "https://raw.githubusercontent.com/boothytoons/boothy-interactive-releases/main/Boothy-Interactive-0.6.0-win.zip.part02",
+      "url": "https://raw.githubusercontent.com/boothytoons/boothy-interactive-releases/main/Boothy-Interactive-0.6.1-win.zip.part02",
       "sha256": "3f91e8120a3410ab43cbd9714f805dfbc539a8ce2aec2dd109b86e835e505ed0",
       "size": 26214400
     },
     {
-      "url": "https://raw.githubusercontent.com/boothytoons/boothy-interactive-releases/main/Boothy-Interactive-0.6.0-win.zip.part03",
+      "url": "https://raw.githubusercontent.com/boothytoons/boothy-interactive-releases/main/Boothy-Interactive-0.6.1-win.zip.part03",
       "sha256": "98ba8ef2efa9b6a1b16a5ddd79f03125a2290f3e435a34261efa42b70640e85f",
       "size": 26214400
     },
     {
-      "url": "https://raw.githubusercontent.com/boothytoons/boothy-interactive-releases/main/Boothy-Interactive-0.6.0-win.zip.part04",
-      "sha256": "6cf06477dff15b03e6759cf98afa9e0082e97e5bfba092276a8d291c23ce8a3b",
+      "url": "https://raw.githubusercontent.com/boothytoons/boothy-interactive-releases/main/Boothy-Interactive-0.6.1-win.zip.part04",
+      "sha256": "041669ad2ffa42ce7a91682783cb5f9bcd0b1e7afff26f87f57118f378da7865",
       "size": 26214400
     },
     {
-      "url": "https://raw.githubusercontent.com/boothytoons/boothy-interactive-releases/main/Boothy-Interactive-0.6.0-win.zip.part05",
-      "sha256": "3226442857ed2886d330647f40e078554ba76cc47412ddda27c77e3a6016862f",
+      "url": "https://raw.githubusercontent.com/boothytoons/boothy-interactive-releases/main/Boothy-Interactive-0.6.1-win.zip.part05",
+      "sha256": "640b22caf2176a4ff0422e1d3b4dcf893fb3817e810f63ec1c9b3314e18a2130",
       "size": 26214400
     },
     {
-      "url": "https://raw.githubusercontent.com/boothytoons/boothy-interactive-releases/main/Boothy-Interactive-0.6.0-win.zip.part06",
-      "sha256": "8ee044977c80faf6138d3c011f670f511475f8130fcf8ca3bbddcf172a7667a9",
+      "url": "https://raw.githubusercontent.com/boothytoons/boothy-interactive-releases/main/Boothy-Interactive-0.6.1-win.zip.part06",
+      "sha256": "e25e994275f6a2af198436e45be6148b9313174dd7cb9c59957b5f6ae54316d0",
       "size": 26214400
     },
     {
-      "url": "https://raw.githubusercontent.com/boothytoons/boothy-interactive-releases/main/Boothy-Interactive-0.6.0-win.zip.part07",
-      "sha256": "24101a50606eca11509cf31e07a34783e301aa50309e0fde8d218a51f56b5cdd",
+      "url": "https://raw.githubusercontent.com/boothytoons/boothy-interactive-releases/main/Boothy-Interactive-0.6.1-win.zip.part07",
+      "sha256": "160867758a055193dfbf63bb8218eeae7746658c3aeaf19c06a98c444e723064",
       "size": 26214400
     },
     {
-      "url": "https://raw.githubusercontent.com/boothytoons/boothy-interactive-releases/main/Boothy-Interactive-0.6.0-win.zip.part08",
-      "sha256": "39c8078013760968f09605b7921cc0f674f2d2ae39e761e38f5b597ccad781d3",
+      "url": "https://raw.githubusercontent.com/boothytoons/boothy-interactive-releases/main/Boothy-Interactive-0.6.1-win.zip.part08",
+      "sha256": "6779236d5efb9870862523f1d231268dd721575bf829a03b622d2faed9d7f77d",
       "size": 26214400
     },
     {
-      "url": "https://raw.githubusercontent.com/boothytoons/boothy-interactive-releases/main/Boothy-Interactive-0.6.0-win.zip.part09",
-      "sha256": "0b9bcf37b1c75d9f27bf860cea25b3197e842c092b923a11719544dc87d568b6",
-      "size": 7842144
+      "url": "https://raw.githubusercontent.com/boothytoons/boothy-interactive-releases/main/Boothy-Interactive-0.6.1-win.zip.part09",
+      "sha256": "c3f517ca83e2b837d31e8788c4e18b11af39fd77f42eddfd528a0c5bddd54674",
+      "size": 7843048
     }
   ],
-  "notes": "Major update.\nLikes, shares and follows are counted right. Likes used to pile onto one viewer and follows were undercounted when TikTok folded messages. Your stats and top lists are real now, and past streams are repaired.\nSteadier live feed. The app was asking TikTok for the gift list thousands of times a stream, which is how a feed gets throttled. It asks once now.\nEvery gift in a streak counts. 4 Money Guns means 4 payouts in the game, 20 Doughnuts means 20 jails. The sound still plays once.\nPick your game in the top bar. Only that game fires, so a gift never sets off two games or two sounds.\nPlayrooms: Add and Remove Balls work from anywhere in the building, at any time, on every pit, with no cap. 5,000 means 5,000.\nPlayrooms: Lucky Wheel has 14 slices with real stakes: Jackpot +10,000, Bust -10,000, Spin Again x2, Full Pockets, Pickpocket, Ball Rain and more. Timers sit clear of the name cards.\nNew look: dark theme, a stats page with charts, past streams with their top gifters, likers and sharers, and update pop-ups you cannot miss."
+  "notes": "Playrooms: gifts sent while the game is paused are held and play the moment you unpause, and running timers (jail, countdowns, the wheel) freeze while paused instead of running out behind the menu. The app shows them as queued instead of failed.\nPlayrooms: Lucky Wheel's Half the Pit spills half of the nearest pit instead of all of it."
 }
