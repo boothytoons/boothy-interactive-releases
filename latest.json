@@ -1,54 +1,54 @@
 {
-  "version": "0.6.3",
-  "url": "https://raw.githubusercontent.com/boothytoons/boothy-interactive-releases/main/Boothy-Interactive-0.6.3-win.zip.part01",
-  "sha256": "97b796df0809bd2b9429cb6c2608816ccbb0e86fead373380babd694adbe35e3",
-  "size": 217565706,
+  "version": "0.6.4",
+  "url": "https://raw.githubusercontent.com/boothytoons/boothy-interactive-releases/main/Boothy-Interactive-0.6.4-win.zip.part01",
+  "sha256": "f527c3cbda2950291fa0f8aa79ddf877edf8ae9e16560ae1845cf84219dd51bd",
+  "size": 217566492,
   "parts": [
     {
-      "url": "https://raw.githubusercontent.com/boothytoons/boothy-interactive-releases/main/Boothy-Interactive-0.6.3-win.zip.part01",
-      "sha256": "beb0516850b34569b86c6af487923d87ebc98922e6530a161adc1ade905bf0e4",
+      "url": "https://raw.githubusercontent.com/boothytoons/boothy-interactive-releases/main/Boothy-Interactive-0.6.4-win.zip.part01",
+      "sha256": "e793a0db1da1442e48020588830c22cb186ce23d388f6188c81ba64fc4528d41",
       "size": 26214400
     },
     {
-      "url": "https://raw.githubusercontent.com/boothytoons/boothy-interactive-releases/main/Boothy-Interactive-0.6.3-win.zip.part02",
+      "url": "https://raw.githubusercontent.com/boothytoons/boothy-interactive-releases/main/Boothy-Interactive-0.6.4-win.zip.part02",
       "sha256": "3f91e8120a3410ab43cbd9714f805dfbc539a8ce2aec2dd109b86e835e505ed0",
       "size": 26214400
     },
     {
-      "url": "https://raw.githubusercontent.com/boothytoons/boothy-interactive-releases/main/Boothy-Interactive-0.6.3-win.zip.part03",
+      "url": "https://raw.githubusercontent.com/boothytoons/boothy-interactive-releases/main/Boothy-Interactive-0.6.4-win.zip.part03",
       "sha256": "98ba8ef2efa9b6a1b16a5ddd79f03125a2290f3e435a34261efa42b70640e85f",
       "size": 26214400
     },
     {
-      "url": "https://raw.githubusercontent.com/boothytoons/boothy-interactive-releases/main/Boothy-Interactive-0.6.3-win.zip.part04",
-      "sha256": "87ebb9560033a4c049d2d12888d02db064376203996f5e6cac1153b7ec6e56f3",
+      "url": "https://raw.githubusercontent.com/boothytoons/boothy-interactive-releases/main/Boothy-Interactive-0.6.4-win.zip.part04",
+      "sha256": "0c146d6b2a7dd1e26287e379d325596e29dbba65bf820f7b2d436ce2835728c1",
       "size": 26214400
     },
     {
-      "url": "https://raw.githubusercontent.com/boothytoons/boothy-interactive-releases/main/Boothy-Interactive-0.6.3-win.zip.part05",
-      "sha256": "5f1e95b095b7b0f28cafbe4364455bbef6949b943ce0cab0197ad7cc1f215523",
+      "url": "https://raw.githubusercontent.com/boothytoons/boothy-interactive-releases/main/Boothy-Interactive-0.6.4-win.zip.part05",
+      "sha256": "44175d4244d2cc88fe74f695dfb1e88bb9913b09906b926866dbf7702ce2fce7",
       "size": 26214400
     },
     {
-      "url": "https://raw.githubusercontent.com/boothytoons/boothy-interactive-releases/main/Boothy-Interactive-0.6.3-win.zip.part06",
-      "sha256": "d6a93d72ca74fff24ff16cb9e2aaa18dbe8b5f1336ef19472bf4dbf21d9224d0",
+      "url": "https://raw.githubusercontent.com/boothytoons/boothy-interactive-releases/main/Boothy-Interactive-0.6.4-win.zip.part06",
+      "sha256": "fcac98a3b8e2f6aa29f6e8cfb814a5b3d05641376d610a57b3ebd5ace5c83e2d",
       "size": 26214400
     },
     {
-      "url": "https://raw.githubusercontent.com/boothytoons/boothy-interactive-releases/main/Boothy-Interactive-0.6.3-win.zip.part07",
-      "sha256": "0b12f208f6d45e10d6ee5bb4448fca60fda0df452601e2ee1fc8cd16ade86c1f",
+      "url": "https://raw.githubusercontent.com/boothytoons/boothy-interactive-releases/main/Boothy-Interactive-0.6.4-win.zip.part07",
+      "sha256": "c69973b095e4b4c4587ea965baf2d37d230d39297f3cda0be8755acd49f738f9",
       "size": 26214400
     },
     {
-      "url": "https://raw.githubusercontent.com/boothytoons/boothy-interactive-releases/main/Boothy-Interactive-0.6.3-win.zip.part08",
-      "sha256": "27167be63b903ce0ec2d631de3ced7c06b8909ec139cc902388f21f9fd0d5596",
+      "url": "https://raw.githubusercontent.com/boothytoons/boothy-interactive-releases/main/Boothy-Interactive-0.6.4-win.zip.part08",
+      "sha256": "382f1e828c0ecbdc8f20d4e7859fae9423171ad44661c5b898178b4b4eee1b06",
       "size": 26214400
     },
     {
-      "url": "https://raw.githubusercontent.com/boothytoons/boothy-interactive-releases/main/Boothy-Interactive-0.6.3-win.zip.part09",
-      "sha256": "e0e3cecaea537fd342d5554b7edf12491046cde71c17fe3ea95a069cf7cf0a00",
-      "size": 7850506
+      "url": "https://raw.githubusercontent.com/boothytoons/boothy-interactive-releases/main/Boothy-Interactive-0.6.4-win.zip.part09",
+      "sha256": "4d20dec79b543f60bdd44e6b9be68c6d478cf4a36085ec54d2b36f24055eaa3c",
+      "size": 7851292
     }
   ],
-  "notes": "Playrooms: Lucky Wheel tops out at 15,000. Jackpot is +15,000 balls and Bust is -15,000. The regular slices stay at +10,000 and -10,000."
+  "notes": "Playrooms: Lights Out (on the wheel and as a gift) really ends the day now. The day clock runs out like it does on its own, so the computer clock hits zero and you can clock out right away instead of waiting or restarting the day."
 }
