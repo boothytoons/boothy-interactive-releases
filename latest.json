@@ -1,54 +1,54 @@
 {
-  "version": "0.6.4",
-  "url": "https://raw.githubusercontent.com/boothytoons/boothy-interactive-releases/main/Boothy-Interactive-0.6.4-win.zip.part01",
-  "sha256": "f527c3cbda2950291fa0f8aa79ddf877edf8ae9e16560ae1845cf84219dd51bd",
-  "size": 217566492,
+  "version": "0.6.5",
+  "url": "https://raw.githubusercontent.com/boothytoons/boothy-interactive-releases/main/Boothy-Interactive-0.6.5-win.zip.part01",
+  "sha256": "7fd40e4700e703812e42a57b5f1361650a68ef60eecf55e45c74e56c01e43366",
+  "size": 217874004,
   "parts": [
     {
-      "url": "https://raw.githubusercontent.com/boothytoons/boothy-interactive-releases/main/Boothy-Interactive-0.6.4-win.zip.part01",
-      "sha256": "e793a0db1da1442e48020588830c22cb186ce23d388f6188c81ba64fc4528d41",
+      "url": "https://raw.githubusercontent.com/boothytoons/boothy-interactive-releases/main/Boothy-Interactive-0.6.5-win.zip.part01",
+      "sha256": "e4f8e7f5f1287d6b9cc7f3b5debe7fc2949a1a99b14a80de621f97b40a43db07",
       "size": 26214400
     },
     {
-      "url": "https://raw.githubusercontent.com/boothytoons/boothy-interactive-releases/main/Boothy-Interactive-0.6.4-win.zip.part02",
+      "url": "https://raw.githubusercontent.com/boothytoons/boothy-interactive-releases/main/Boothy-Interactive-0.6.5-win.zip.part02",
       "sha256": "3f91e8120a3410ab43cbd9714f805dfbc539a8ce2aec2dd109b86e835e505ed0",
       "size": 26214400
     },
     {
-      "url": "https://raw.githubusercontent.com/boothytoons/boothy-interactive-releases/main/Boothy-Interactive-0.6.4-win.zip.part03",
+      "url": "https://raw.githubusercontent.com/boothytoons/boothy-interactive-releases/main/Boothy-Interactive-0.6.5-win.zip.part03",
       "sha256": "98ba8ef2efa9b6a1b16a5ddd79f03125a2290f3e435a34261efa42b70640e85f",
       "size": 26214400
     },
     {
-      "url": "https://raw.githubusercontent.com/boothytoons/boothy-interactive-releases/main/Boothy-Interactive-0.6.4-win.zip.part04",
-      "sha256": "0c146d6b2a7dd1e26287e379d325596e29dbba65bf820f7b2d436ce2835728c1",
+      "url": "https://raw.githubusercontent.com/boothytoons/boothy-interactive-releases/main/Boothy-Interactive-0.6.5-win.zip.part04",
+      "sha256": "5266e9540db8ed7e48fb0684392110bb4d95d812885247c5d669da4fdd799705",
       "size": 26214400
     },
     {
-      "url": "https://raw.githubusercontent.com/boothytoons/boothy-interactive-releases/main/Boothy-Interactive-0.6.4-win.zip.part05",
-      "sha256": "44175d4244d2cc88fe74f695dfb1e88bb9913b09906b926866dbf7702ce2fce7",
+      "url": "https://raw.githubusercontent.com/boothytoons/boothy-interactive-releases/main/Boothy-Interactive-0.6.5-win.zip.part05",
+      "sha256": "17722beede9e6c952670e4faeb73ac6f665fb3ca7a157f40ac3382a4098f75a0",
       "size": 26214400
     },
     {
-      "url": "https://raw.githubusercontent.com/boothytoons/boothy-interactive-releases/main/Boothy-Interactive-0.6.4-win.zip.part06",
-      "sha256": "fcac98a3b8e2f6aa29f6e8cfb814a5b3d05641376d610a57b3ebd5ace5c83e2d",
+      "url": "https://raw.githubusercontent.com/boothytoons/boothy-interactive-releases/main/Boothy-Interactive-0.6.5-win.zip.part06",
+      "sha256": "7b8fba0e1efb9bee00b32e9d6003f61e0dd798bf0e30f2762a23300fa5f4c7d8",
       "size": 26214400
     },
     {
-      "url": "https://raw.githubusercontent.com/boothytoons/boothy-interactive-releases/main/Boothy-Interactive-0.6.4-win.zip.part07",
-      "sha256": "c69973b095e4b4c4587ea965baf2d37d230d39297f3cda0be8755acd49f738f9",
+      "url": "https://raw.githubusercontent.com/boothytoons/boothy-interactive-releases/main/Boothy-Interactive-0.6.5-win.zip.part07",
+      "sha256": "66339cba79c2662a7bb30e3ac54d149ead417438f8278b09bdc75ed59e80ce05",
       "size": 26214400
     },
     {
-      "url": "https://raw.githubusercontent.com/boothytoons/boothy-interactive-releases/main/Boothy-Interactive-0.6.4-win.zip.part08",
-      "sha256": "382f1e828c0ecbdc8f20d4e7859fae9423171ad44661c5b898178b4b4eee1b06",
+      "url": "https://raw.githubusercontent.com/boothytoons/boothy-interactive-releases/main/Boothy-Interactive-0.6.5-win.zip.part08",
+      "sha256": "aee4613305ab001108d08f93f6fed93e57a358673300c06f12b56be7443a7b6c",
       "size": 26214400
     },
     {
-      "url": "https://raw.githubusercontent.com/boothytoons/boothy-interactive-releases/main/Boothy-Interactive-0.6.4-win.zip.part09",
-      "sha256": "4d20dec79b543f60bdd44e6b9be68c6d478cf4a36085ec54d2b36f24055eaa3c",
-      "size": 7851292
+      "url": "https://raw.githubusercontent.com/boothytoons/boothy-interactive-releases/main/Boothy-Interactive-0.6.5-win.zip.part09",
+      "sha256": "47069fe80e910e29118e0192b64e7c1786d4184ede4c8d80161f76d0049e1064",
+      "size": 8158804
     }
   ],
-  "notes": "Playrooms: Lights Out (on the wheel and as a gift) really ends the day now. The day clock runs out like it does on its own, so the computer clock hits zero and you can clock out right away instead of waiting or restarting the day."
+  "notes": "New game: Shred A Billion (demo). 17 gift effects, and every one is the game's own stream effect: money rain, golden pallet, overdrive, boosts, shred for me, jam, avalanche, launch, money dump and more. Viewer names show on the game's own feed. Start a run from TIKTOK LIVE on the game's main menu.\nShred A Billion Lucky Wheel. 20 slices to start, 10 that help and 10 that hurt. On the game page you can switch each slice on or off, rename it, change its amount, add your own or remove them. Spins wait their turn and hold while a menu is open.\nThe Lucky Wheel special prize works on Shred A Billion too. Turn it on, name it (free merch, a shoutout, anything), and pick the odds: 1 in 100, 250, 500, 1,000, 2,000 or your own number. Off by default. Every win is logged with the time and name."
 }
